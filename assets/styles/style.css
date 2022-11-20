@@ -1,0 +1,177 @@
+body {
+    background-color: rgb(0, 0, 0) !important;
+    font-family: "Inter" !important;
+}
+
+/*
++============================+
++            ABOUT           +
++============================+
+*/
+
+.bloc1 {
+    padding: 6% 0 5% !important;
+}
+
+.bloc1 .col-5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bloc1 p {
+    color: azure;
+    text-align: center;
+    font-family: 'Open Sans';
+}
+
+.bloc1 #titre p {
+    font-size: 9vw;
+    font-family: 'Cardo';
+}
+
+.bloc1 #para {
+    margin-bottom: 5%;
+}
+
+.bloc1 #para p {
+    font-size: 1.1rem;
+}
+
+.bloc1 button {
+    width: 170px;
+    padding: 8% 0;
+}
+
+.bloc2 {
+    padding: 5% 0 6%;
+}
+
+.bloc2 .map iframe {
+    -webkit-filter: contrast(129%) brightness(103%) saturate(106%) sepia(7%) grayscale(100%) invert(100%);
+    filter: contrast(129%) brightness(103%) saturate(106%) sepia(7%) grayscale(100%) invert(100%);
+}
+
+.bloc2 .row_map .infos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.bloc2 .row_map .infos .row {
+    line-height: 60px;
+}
+
+.bloc2 strong::before {
+    content: '>';
+    color: #1a8754;
+    margin: 2%;
+}
+
+.bloc2 .infos strong,
+.bloc2 .infos span,
+.bloc2 .infos a {
+    color: azure;
+    text-decoration: none;
+}
+
+.bloc2 a:hover {
+    color: rgb(213, 213, 213);
+}
+
+.bloc2 .icons {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.bloc2 .icons .col {
+    margin: 4% 4% 0;
+}
+
+.bloc2 .icons a {
+    font-size: 1.15rem;
+    color: azure;
+    padding-right: 5%;
+}
+
+.bloc2 .icons a:hover {
+    color: rgb(213, 213, 213);
+}
+
+footer {
+    color: azure;
+    text-align: center;
+}
+
+footer i {
+    margin-left: 4px;
+    color: #1a8754;
+}
+
+/*
++============================+
++          CONTACT           +
++============================+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+±===============================================±
+????????????????????????????????????????????????±
+///////////////'/.petitfilou.php/'//////////////±
+¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿±
+±===============================================±
+
+*/
